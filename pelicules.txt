@@ -2,5 +2,8 @@ La vida de Brian
 HEAD
 holy Grail
 El sentit de la vida
+HEAD
 Peli des del clone
 ec5dc6a (Afegeix peli des del clone)
+Una altra peli
+6398d5a (Afegeix una altra pel.licula)
